@@ -7,9 +7,9 @@ What I wanted to do with this project is to both be able to do the Spotify RecSy
 **Tools Used:**
 Surprise and scikit-learn are the main machine learning libraries used along with the standard pandas and numpy
 
-**Files: **
+**Files:**
 
-1.`Dataframe_capstone_final_outputcleared` - Exploration and Data Analysis of the dataset given as well as initial model testing to see which algorithm in surprise would be best suited for the final model to be based on. After deciding on SVD, did GridSearch to help optimize the parameters.
+1. `Dataframe_capstone_final_outputcleared` - Exploration and Data Analysis of the dataset given as well as initial model testing to see which algorithm in surprise would be best suited for the final model to be based on. After deciding on SVD, did GridSearch to help optimize the parameters.
 
 2. `Capstone Model` - Final model prototype that only uses 1 thousand of the 1 million playlists. Did evaluation based on my own music taste.
 
